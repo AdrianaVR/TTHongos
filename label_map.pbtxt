@@ -1,0 +1,128 @@
+item {
+    id: 1
+    name:'Amanitacaesarea'
+}
+item {
+    id: 2
+    name:'Amanitamuscaria'
+}
+item {
+    id: 3
+    name:'Amanitabisporigera'
+}
+item {
+    id: 4
+    name:'Amanitapantherina'
+}
+item {
+    id: 5
+    name:'Amanitaphalloides'
+}
+item {
+    id: 6
+    name:'Boletusedulis'
+}
+item {
+    id: 7
+    name:'Gomphusfloccosus'
+}
+item {
+    id: 8
+    name:'Gyromitrainfula'
+}
+item {
+    id: 9
+    name:'Gyromitrinaesculenta'
+}
+item {
+    id: 10
+    name:'Laetiporussulphureus'
+}
+item {
+    id: 11
+    name:'Lycoperdonperlatum'
+}
+item {
+    id: 12
+    name:'Russulaemetica'
+}
+item {
+    id: 13
+    name:'Lactariusindigo'
+}
+item {
+    id: 14
+    name:'Cantharelluscibarius'
+}
+item {
+    id: 15
+    name:'Helvellacrispa'
+}
+item {
+    id: 16
+    name:'Clavulina coralloides'
+}
+item {
+    id: 17
+    name:'Clavariadelphustruncatus'
+}
+item {
+    id: 18
+    name:'Geastrumtriplex'
+}
+item {
+    id: 19
+    name:'Hypomyces lactifluorum'
+}
+item {
+    id: 20
+    name:'Leotialubrica'
+}
+item {
+    id: 21
+    name:'Morchellaesculenta'
+}
+item {
+    id: 22
+    name:'Sparassiscispa'
+}
+item {
+    id: 23
+    name:'Lactariustorminosus'
+}
+item {
+    id: 24
+    name:'Pholiotasquarrosa'
+}
+item {
+    id: 25
+    name:'Lepiotacristata'
+}
+item {
+    id: 26
+    name:'LepiotamagnisporaMurrill'
+}
+item {
+    id: 27
+    name:'Auriculariaauriculajudaes'
+}
+item {
+    id: 28
+    name:'Helvellalacunosa'
+}
+item {
+    id: 29
+    name:'Agaricuscampestris'
+}
+item {
+    id: 30
+    name:'Tricholomamagnivelare'
+}
+item {
+    id: 31
+    name:'Suillusgranilatus'
+}
+item {
+    id: 32
+    name:'Russulabrevipes'
+}
